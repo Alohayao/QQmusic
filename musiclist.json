@@ -1,0 +1,67 @@
+[
+	{
+		"name" : "爱我别走",
+		"singer" : "范玮琪/王金林",
+		"album" : "最美和声",
+		"time" : "03:42",
+ 		"link_url" : "music/爱我别走.mp3",
+ 		"cover" : "img/爱我别走.jpg"
+    },
+    {
+		"name" : "丑八怪",
+		"singer" : "薛之谦",
+		"album" : "意外",
+		"time" : "04:08",
+ 		"link_url" : "music/丑八怪.mp3",
+ 		"cover" : "img/意外.jpg"
+    },
+	{
+		"name" : "情深谊长",
+		"singer" : "吉克隽逸",
+		"album" : "2017春晚",
+		"time" : "02:32",
+ 		"link_url" : "music/情深谊长.mp3",
+ 		"cover" : "img/2017春晚.jpg"
+    },
+    {
+		"name" : "方圆几里",
+		"singer" : "薛之谦",
+		"album" : "意外",
+		"time" : "04:47",
+ 		"link_url" : "music/方圆几里.mp3",
+ 		"cover" : "img/意外.jpg"
+    },
+	{
+		"name" : "无果",
+		"singer" : "严艺丹",
+		"album" : "意外",
+		"time" : "04:56",
+ 		"link_url" : "music/无果.mp3",
+ 		"cover" : "img/无果.jpg"
+    },
+    {
+		"name" : "你还要我怎样",
+		"singer" : "薛之谦",
+		"album" : "意外",
+		"time" : "05:10",
+ 		"link_url" : "music/你还要我怎样.mp3",
+ 		"cover" : "img/意外.jpg"
+    },
+    {
+		"name" : "意外",
+		"singer" : "薛之谦",
+		"album" : "意外",
+		"time" : "04:47",
+ 		"link_url" : "music/意外.mp3",
+ 		"cover" : "img/意外.jpg"
+    },
+    {
+		"name" : "有没有",
+		"singer" : "薛之谦",
+		"album" : "意外",
+		"time" : "04:12",
+ 		"link_url" : "music/有没有.mp3",
+ 		"cover" : "img/意外.jpg"
+    } 
+   
+]
